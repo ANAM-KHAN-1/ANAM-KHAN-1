@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anam Khan
 
-🎓 MBA (Financial Management) candidate at Aligarh Muslim University (2024–2026) with a strong foundation in commerce and a passion for finance, analytics, and technology.
+🎓 MBA (Financial Management) student at Aligarh Muslim University (2024–2026) with a strong foundation in commerce and a passion for finance, analytics, and technology.
 
 ## 🌟 About Me
 
