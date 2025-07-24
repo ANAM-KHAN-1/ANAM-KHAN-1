@@ -8,7 +8,7 @@ I bring a unique mix of **financial knowledge**, **technical skills**, and **ind
 
 ## 💼 Experience Snapshot
 
-- 💹 **Finance Intern – SAIL (Mar 2025–Present):**  
+- 💹 **Finance Intern – SAIL (Mar 2025–May 2025):**  
   Contributing to budgeting, cost analysis, and compliance using **SAP**.
 
 - 🧠 **Data Tagging Executive – ParallelDot (Jul 2023–Apr 2024):**  
