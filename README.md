@@ -7,11 +7,13 @@
 I bring a unique mix of **financial knowledge**, **technical skills**, and **industry experience** that bridges the gap between data and decision-making. From interning at **SAIL** to working on machine learning projects, I’m continuously exploring how technology transforms finance.
 
 ## 💼 Experience Snapshot
-
-- 💹 **Finance Intern – SAIL (Mar 2025–May 2025):**  
+- **Financial Analytics Intern - SkilliFied Mentor (June 2025 - August 2025):**
+  Completed various Internship projects and deepend my understanding of ML Applications in Finance.
+  
+- 💹 **Finance Intern – SAIL (Mar 2025 – May 2025):**  
   Contributing to budgeting, cost analysis, and compliance using **SAP**.
 
-- 🧠 **Data Tagging Executive – ParallelDot (Jul 2023–Apr 2024):**  
+- 🧠 **Data Tagging Executive – ParallelDot (Jul 2023 – Apr 2024):**  
   Labelled data for ML projects with accuracy and attention to detail.
 
 ## 📊 Projects
@@ -22,6 +24,19 @@ I bring a unique mix of **financial knowledge**, **technical skills**, and **ind
 - 🔮 **Stock Price Forecasting with LSTM**  
   [📓 Colab](https://colab.research.google.com/drive/15bdvh3nVTPhqHlvy_0Noxh4q6_g2jD8j?usp=sharing)
 
+- **Portfolio Optimization using MPT**
+  [📓 Colab](https://colab.research.google.com/drive/194hn2hsu_EiE9ulwbrIF_MaHebs_6ldI?usp=sharing)
+
+- **Time Series analysis For Revenue forecasting**
+   [📓 Colab](https://colab.research.google.com/drive/1SapIAAlTmDEK4h4RpCquCi2JCDdKJlWM?usp=sharing)
+
+- **Fraud Detection In Financial Transaction**
+   [📓 Colab](https://colab.research.google.com/drive/1hlilN9jKzHTzTbEmeqE0z4IVV0zppVtP?usp=sharing)
+
+- **Amazon Grocery Demand Forecasting**
+  [Github](https://github.com/ANAM-KHAN-1/amazon-grocery-demand-forecasting/blob/main/amazon-grocery-demand-forecasting%20(2).ipynb)
+  
+  
 ## 🛠️ Skills
 
 **Finance Tools:** Excel, Power BI, Tally ERP, SAP  
