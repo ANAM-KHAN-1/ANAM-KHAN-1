@@ -18,6 +18,9 @@ I bring a unique mix of **financial knowledge**, **technical skills**, and **ind
 
 ## 📊 Projects
 
+- **Amazon Grocery Demand Forecasting**
+  [Github](https://github.com/ANAM-KHAN-1/amazon-grocery-demand-forecasting/blob/main/amazon-grocery-demand-forecasting%20(2).ipynb)
+  
 - 📈 **Buy-Sell Signal Predictor** (100 EMA & 200 EMA Crossover)  
   [🔗 Live Link](https://signal-3.onrender.com/) | [📓 Colab](https://colab.research.google.com/drive/1ezCBf89wLq7iXK_y64ZLTgZs1NYWR24y?usp=sharing)
 
@@ -32,9 +35,7 @@ I bring a unique mix of **financial knowledge**, **technical skills**, and **ind
 
 - **Fraud Detection In Financial Transaction**
    [📓 Colab](https://colab.research.google.com/drive/1hlilN9jKzHTzTbEmeqE0z4IVV0zppVtP?usp=sharing)
-
-- **Amazon Grocery Demand Forecasting**
-  [Github](https://github.com/ANAM-KHAN-1/amazon-grocery-demand-forecasting/blob/main/amazon-grocery-demand-forecasting%20(2).ipynb)
+  
   
   
 ## 🛠️ Skills
