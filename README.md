@@ -40,9 +40,6 @@ I'm an **MBA (Financial Management)** student at **Aligarh Muslim University** w
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 </div>
 
@@ -51,11 +48,11 @@ I'm an **MBA (Financial Management)** student at **Aligarh Muslim University** w
 ## 🚀 Projects
 
 ### 📈 [Stock Price Prediction Web App](https://github.com/ANAM-KHAN-1/LSTM-PROJECT)
-> *Python · TensorFlow · Flask · yfinance · Scikit-learn*
+> *Python · yfinance · Deep Learning*
 
 An AI-powered web app that predicts stock prices and generates a **30-day future forecast** for any ticker — built with an LSTM deep learning model trained on 10 years of Yahoo Finance data.
 
-- 🧠 Multi-layer LSTM neural network for sequential pattern recognition
+- 🧠 Deep learning model for sequential price pattern recognition
 - 📊 Visual chart overlaying actual prices, predictions, and future forecasts
 - 🌐 Accessible via browser — no coding knowledge needed
 
@@ -73,13 +70,10 @@ An automated trading signal generator using **100-day & 200-day EMA crossover lo
 
 ## 📜 Certifications
 
-| Certification | Issuer | Score |
-|---|---|---|
-| 🏅 NISM Investor Certification | NISM | **47 / 50** |
-| 📈 Financial Analyst | Skillified Mentor | — |
-| 🌐 Google Digital Marketing & E-Commerce | Google | — |
-| 📊 Excel: Beginner to Advanced | Trump Excel | — |
-| 🧾 Tally ERP | AMU Skill Center | — |
+- 🏅 NISM Investor Certification
+- 🌐 Google Digital Marketing & E-Commerce
+- 📊 Excel: Beginner to Advanced — Trump Excel
+- 🧾 Tally ERP — AMU Skill Center
 
 ---
 
@@ -88,18 +82,6 @@ An automated trading signal generator using **100-day & 200-day EMA crossover lo
 🥇 &nbsp;**UGC NET Qualified** — Management · January 2026 · Top National Percentile  
 🌍 &nbsp;**Türkiye Bursları Scholarship** — Fully-funded by the Republic of Turkey  
 🎖️ &nbsp;**School Topper (Class 12)** — Ranked #1 overall · Commerce Section Topper  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Anam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANAM-KHAN-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANAM-KHAN-1&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
