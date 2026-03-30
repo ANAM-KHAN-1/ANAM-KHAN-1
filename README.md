@@ -1,70 +1,113 @@
-# 👋 Hi, I'm Anam Khan
+<div align="center">
 
-🎓 MBA (Financial Management) student at Aligarh Muslim University (2024–2026) with a strong foundation in commerce and a passion for finance, analytics, and technology.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anam%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MBA%20Finance%20%7C%20Quant%20Researcher%20%7C%20FinTech%20Builder&descAlignY=55&descSize=16"/>
 
-## 🌟 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anam-khan123)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANAM-KHAN-1)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anam659812@gmail.com)
 
-I bring a unique mix of **financial knowledge**, **technical skills**, and **industry experience** that bridges the gap between data and decision-making. From interning at **SAIL** to working on machine learning projects, I’m continuously exploring how technology transforms finance.
+</div>
 
-## 💼 Experience Snapshot
-- **Financial Analytics Intern - SkilliFied Mentor (June 2025 - August 2025):**
-  Completed various Internship projects and deepend my understanding of ML Applications in Finance.
-  
-- 💹 **Finance Intern – SAIL (Mar 2025 – May 2025):**  
-  Contributing to budgeting, cost analysis, and compliance using **SAP**.
+---
 
-- 🧠 **Data Tagging Executive – ParallelDot (Jul 2023 – Apr 2024):**  
-  Labelled data for ML projects with accuracy and attention to detail.
+## 👋 Hey, I'm Anam!
 
-## 📊 Projects
+> *"I combine finance fundamentals with data-driven tools to make smarter investment decisions."*
 
-- **Amazon Grocery Demand Forecasting**
-  [Github](https://github.com/ANAM-KHAN-1/amazon-grocery-demand-forecasting/blob/main/amazon-grocery-demand-forecasting%20(2).ipynb)
-  
-- 📈 **Buy-Sell Signal Predictor** (100 EMA & 200 EMA Crossover)  
-  [🔗 Live Link](https://signal-3.onrender.com/) | [📓 Colab](https://colab.research.google.com/drive/1ezCBf89wLq7iXK_y64ZLTgZs1NYWR24y?usp=sharing)
+I'm an **MBA (Financial Management)** student at **Aligarh Muslim University** with hands-on experience in equity research, quantitative analysis, and financial modelling. I've interned at **SAIL** and **QuantradeAI**, and I build Python-based finance tools on the side.
 
-- 🔮 **Stock Price Forecasting with LSTM**  
-  [📓 Colab](https://colab.research.google.com/drive/15bdvh3nVTPhqHlvy_0Noxh4q6_g2jD8j?usp=sharing)
+- 🎓 MBA Finance · Aligarh Muslim University · CGPA 8.0
+- 📊 Ex-Intern @ **QuantradeAI** (Financial Research Analyst) & **SAIL** (Accounts & Finance)
+- 🏆 **UGC NET Qualified** (Management) · January 2026
+- 🌍 **Türkiye Bursları Scholar** — Fully-funded Turkish Government Scholarship Awardee
+- 🥇 **School Topper** — Ranked #1 overall, Class 12
 
-- **Portfolio Optimization using MPT**
-  [📓 Colab](https://colab.research.google.com/drive/194hn2hsu_EiE9ulwbrIF_MaHebs_6ldI?usp=sharing)
+---
 
-- **Time Series analysis For Revenue forecasting**
-   [📓 Colab](https://colab.research.google.com/drive/1SapIAAlTmDEK4h4RpCquCi2JCDdKJlWM?usp=sharing)
+## 🛠️ What I Work With
 
-- **Fraud Detection In Financial Transaction**
-   [📓 Colab](https://colab.research.google.com/drive/1hlilN9jKzHTzTbEmeqE0z4IVV0zppVtP?usp=sharing)
-  
-  
-  
-## 🛠️ Skills
+<div align="center">
 
-**Finance Tools:** Excel, Power BI, Tally ERP, SAP  
-**Tech Stack:** Python (Basic), SQL (Basic), Google Sheets  
-**Finance Concepts:** Investment Management, Financial Modelling, Derivatives  
-**Soft Skills:** Sales, Communication, Presentation  
-**Languages:** English, Hindi, Urdu (Fluent), Arabic & Korean (Basic)
+**Finance & Analytics**
+
+![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SAP](https://img.shields.io/badge/SAP%20ERP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Tally](https://img.shields.io/badge/Tally%20ERP-1D4ED8?style=flat-square&logoColor=white)
+
+**Programming & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projects
+
+### 📈 [Stock Price Prediction Web App](https://github.com/ANAM-KHAN-1/LSTM-PROJECT)
+> *Python · TensorFlow · Flask · yfinance · Scikit-learn*
+
+An AI-powered web app that predicts stock prices and generates a **30-day future forecast** for any ticker — built with an LSTM deep learning model trained on 10 years of Yahoo Finance data.
+
+- 🧠 Multi-layer LSTM neural network for sequential pattern recognition
+- 📊 Visual chart overlaying actual prices, predictions, and future forecasts
+- 🌐 Accessible via browser — no coding knowledge needed
+
+---
+
+### 📉 Buy-Sell Signal Prediction Tool
+> *Python · Pandas · Matplotlib*
+
+An automated trading signal generator using **100-day & 200-day EMA crossover logic** to identify buy/sell entry points in Indian equity markets — backtested with visual overlays.
+
+- ⚡ Automated signal generation based on technical analysis
+- 📋 Backtested across multiple Indian stocks with annotated charts
+
+---
 
 ## 📜 Certifications
 
-- NISM Investor Certification – Scored 47/50  
-- Google Digital Marketing  
-- Excel (Beginner to Advanced) – Trump Excel  
-- Tally ERP – AMU Skill Center  
-- Investment Banking & Omnichannel Marketing – Forage  
+| Certification | Issuer | Score |
+|---|---|---|
+| 🏅 NISM Investor Certification | NISM | **47 / 50** |
+| 📈 Financial Analyst | Skillified Mentor | — |
+| 🌐 Google Digital Marketing & E-Commerce | Google | — |
+| 📊 Excel: Beginner to Advanced | Trump Excel | — |
+| 🧾 Tally ERP | AMU Skill Center | — |
+
+---
 
 ## 🏆 Achievements
 
-- 🎓 **Türkiye Bursları Scholar (2022)** – Fully funded international scholarship  
-- 🥇 **School Topper – 12th CBSE (Commerce)**  
+🥇 &nbsp;**UGC NET Qualified** — Management · January 2026 · Top National Percentile  
+🌍 &nbsp;**Türkiye Bursları Scholarship** — Fully-funded by the Republic of Turkey  
+🎖️ &nbsp;**School Topper (Class 12)** — Ranked #1 overall · Commerce Section Topper  
 
-## 📬 Let's Connect!
+---
 
-- 📧 Email: [anam659812@gmail.com])  
-- 💼 LinkedIn: [anam-khan123](https://www.linkedin.com/in/anam-khan123/)  
+## 📊 GitHub Stats
 
+<div align="center">
 
+![Anam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANAM-KHAN-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANAM-KHAN-1&layout=compact&theme=tokyonight&hide_border=true)
 
+</div>
 
+---
+
+<div align="center">
+
+*💬 Open to internships, research collaborations, and FinTech projects*  
+*📩 Reach me at [anam659812@gmail.com](mailto:anam659812@gmail.com)*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
